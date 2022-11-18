@@ -4,7 +4,7 @@ The goal of this repo is to provide a minimal Typescript configuration that supp
 
 ## Quickstart
 
-1. Start local ipfs node at 5001 (or edit URL in src/index.ts)
+1. Start local ipfs node at 5001 (or edit URL in src/index.ts) [Instructions how to run local IPFS node using Docker](https://docs.ipfs.tech/how-to/run-ipfs-inside-docker/)
 2. run `npm run start:dev`
 
 Expected output:
